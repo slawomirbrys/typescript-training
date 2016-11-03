@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "target": "ES6",
+    "sourceMap": false,
+    "inlineSourceMap": true
+  },
+  "include": [
+    "data/**/*.ts",
+    "src/**/*.ts"
+  ]
+}
